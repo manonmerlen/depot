@@ -26,5 +26,10 @@ make
 
 ##Utilisation
 
+```
+./a.out
+```
+
+![](img.png)
 
 
