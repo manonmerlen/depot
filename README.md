@@ -30,6 +30,6 @@ make
 ./a.out
 ```
 
-![](img.png)
+![](drunk_player_gui.png)
 
 
